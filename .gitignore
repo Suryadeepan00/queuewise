@@ -1,0 +1,8 @@
+application.properties
+.env
+.env.*
+node_modules/
+target/
+dist/
+.idea/
+*.iml
